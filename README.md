@@ -1,3 +1,7 @@
-[![GitHub Stats](https://github-stats-extended-frontend-j1te.vercel.app/api?username=gluucc&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended-frontend-j1te.vercel.app/api?username=gluucc&hide_title=true&include_all_commits=true&theme=dark_github) [![GitHub Stats](https://github-stats-extended-frontend-j1te.vercel.app/api/top-langs?username=gluucc&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended-frontend-j1te.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended-frontend-j1te.vercel.app/api?username=gluucc&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended-frontend-j1te.vercel.app/api?username=gluucc&hide_title=true&include_all_commits=true&theme=dark_github)
 
-
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended-frontend-j1te.vercel.app/api/top-langs?username=gluucc&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended-frontend-j1te.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
